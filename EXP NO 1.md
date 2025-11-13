@@ -1,6 +1,12 @@
 **EXP.NO:01**
+
+
 **REGULATED POWER SUPPLY**
-<img width="625" height="738" alt="image" src="https://github.com/user-attachments/assets/41d06407-1132-47ad-8c70-dad48aef6933" />
+
+
+
+<img width="610" height="696" alt="image" src="https://github.com/user-attachments/assets/e3380286-4d35-4277-bf76-959a59743f0b" />
+
 
 <img width="590" height="779" alt="image" src="https://github.com/user-attachments/assets/158f141a-7e42-43a5-aa90-df7d75a0dbe0" />
 
