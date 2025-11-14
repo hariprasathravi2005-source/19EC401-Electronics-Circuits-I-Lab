@@ -4,7 +4,6 @@ REGULATED POWER SUPPLY
 </p>
 
 
-
 <img width="610" height="696" alt="image" src="https://github.com/user-attachments/assets/e3380286-4d35-4277-bf76-959a59743f0b" />
 
 
