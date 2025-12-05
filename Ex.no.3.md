@@ -13,13 +13,14 @@ FREQUENCY RESPONSE OF COMMON BASE AMPLIFIER
 
 **TABULATION**
 
-<img width="607" height="362" alt="image" src="https://github.com/user-attachments/assets/362e7b9f-de36-45fb-a523-5e03bda0fce9" />
 
-
-**ATTACH TABULATION**
+![WhatsApp Image 2025-11-28 at 10 52 42_4e47d9b6](https://github.com/user-attachments/assets/dc06e8b3-4682-4c89-aba1-83bf079a2907)
 
 **ATTACH GRAPH**
 
-**RESULT**
+![WhatsApp Image 2025-11-28 at 10 52 42_e11d256c](https://github.com/user-attachments/assets/8973d15b-3907-4ee2-9cf7-f65b3191fb0e)
 
-<img width="622" height="257" alt="image" src="https://github.com/user-attachments/assets/88e64ad6-38ef-4722-bd1b-6239f641bf8a" />
+
+**RESULT**
+![WhatsApp Image 2025-11-28 at 10 52 43_5a3dcc4c](https://github.com/user-attachments/assets/06f0cdfa-899a-4a77-a1b7-1efcdcb879f6)
+
