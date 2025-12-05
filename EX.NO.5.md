@@ -18,8 +18,14 @@ FREQUENCY RESPONSE OF COMMON SOURCE FET AMPLIFIER
 
 **ATTACH TABULATION**
 
+![WhatsApp Image 2025-11-28 at 11 00 10_ce726f1a](https://github.com/user-attachments/assets/352ea22f-b3e8-4ab2-b22b-c82b254c3e04)
+
 **ATTACH GRAPH**
+![WhatsApp Image 2025-11-28 at 11 00 10_f97963fc](https://github.com/user-attachments/assets/eacba6c7-92f0-4b66-b56f-dd62e3bb0fae)
+
+
 
 **RESULT**
 
-<img width="592" height="250" alt="image" src="https://github.com/user-attachments/assets/030ef6a9-bf7e-4b80-a3e1-f10c8defd7ac" />
+![WhatsApp Image 2025-11-28 at 11 00 10_54501126](https://github.com/user-attachments/assets/65408cd6-f740-41d5-b163-02a1cc87ef0c)
+
